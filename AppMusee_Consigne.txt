@@ -1,0 +1,9 @@
+bonjour monsieur,
+voici mon application de musee
+vous y trouverez donc 2 onglets, le premier permet de voir toutes les oeuvres enregistrées, et le second va
+vous demander de vous connecter, et si vous utilisez le login "admin" et le mot de passe "1234", vous pourrez
+ajouter une oeuvre, en supprimer ou en modifier parmis toutes les oeuvres enregistrées, sinon il est possible
+d'utiliser un compte user afin d'avoir uniquement acces aux oeuvres enregistés par cette personne.
+la dernière action possible est la creation de compte.
+
+PS: je suis desolé, la modification ne fonctionne pas!
